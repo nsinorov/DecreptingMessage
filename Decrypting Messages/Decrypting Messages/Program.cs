@@ -1,7 +1,7 @@
-﻿using System;
-
 namespace Decrypting_Messages
 {
+    ﻿using System;
+    
     internal class Program
     {
         static void Main(string[] args)
