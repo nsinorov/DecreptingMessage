@@ -12,6 +12,16 @@ You will receive a key (integer) and n characters afterward. Add the key to each
 
      Print the decrypted message.
 
+
+## Constraints
+
+
+
+
+
+
+
+
 ## Examples:
 
 ![Capture](https://user-images.githubusercontent.com/45227327/192908140-cdedacdd-ef14-48b8-a3c1-5abe460c0660.PNG)
