@@ -14,10 +14,10 @@ You will receive a key (integer) and n characters afterward. Add the key to each
 
 ## Constraints:
 
-    The key will be in the interval [0…20]
-    n will be in the interval [1…20]
-    The characters will always be upper or lower-case letters from the English alphabet
-    You will receive one letter per line
+    The key will be in the interval [0…20].
+    n will be in the interval [1…20].
+    The characters will always be upper or lower-case letters from the English alphabet.
+    You will receive one letter per line.
 
 ## Examples:
 
